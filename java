@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 How to create branch in git?
 git branch <branchname>
 
@@ -26,3 +27,4 @@ maste  -->The remote branch your pulling from /pushing to
 How to push all the local branches to remote?
 git push -u -all
 
+saidarao
